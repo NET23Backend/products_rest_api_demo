@@ -1,4 +1,6 @@
 ﻿using System;
+using REST_API_Products.Models;
+
 namespace products_webb_app.Services
 {
 	public class ProductService

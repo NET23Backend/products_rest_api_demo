@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
-using products_webb_app.Models;
+using REST_API_Products.Models;
 using products_webb_app.Services;
 
 namespace products_webb_app.Pages.Products
